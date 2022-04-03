@@ -16,7 +16,7 @@ int main()
 		cout << "Dirigo un ministerio de música en la Capilla de la Virgen de la Medalla Milagrosa, de igual manera tambien soy catequista." << endl;
 		cout << "Tengo conocientos basicos sobre lo que es la soldadura de metales." << endl;
 		cout << "Doy clases de matematica escolar." << endl << endl;
-		cout << "Desea volver a correr el programa?" << endl;
+		cout << "¿Desea volver a correr el programa? " << endl;
 		cout << "Presione 1. SI" << endl << "Presione 2. NO" << endl << endl;
 		cin >> op;
 	}
